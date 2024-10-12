@@ -53,7 +53,10 @@ export default function QrCodeGen() {
           content="Easily generate QR codes for Wi-Fi networks."
         />
         <meta property="og:image" content="/seo image.png" />{" "}
-        <meta property="og:url" content="https://your-website-url.com" />{" "}
+        <meta
+          property="og:url"
+          content="https://wifi-qrcode-generator-using-next-rgvz2xvod.vercel.app/"
+        />{" "}
         <link rel="icon" href="/logoipsum-298.svg" />
       </Head>
       <div className="flex flex-col items-center justify-center min-h-screen p-6 bg-gray-50">
